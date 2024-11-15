@@ -12,8 +12,6 @@ EcoHub to interaktywna platforma poświęcona klimacie i ochronie środowiska, k
 - Loading Screen: Przyjemne przejścia podczas ładowania treści.
 - Formularz Kontaktowy: Ułatwia kontakt z administracją strony.
 
-EcoHub to miejsce, gdzie każdy może zaangażować się w działania na rzecz ochrony naszej planety!
-
 ## Projekt uzywa: 
 - Vite: Narzędzie do budowy aplikacji, które zapewnia szybkie ładowanie i rozwój.
 - React: Biblioteka do budowy interfejsów użytkownika.
